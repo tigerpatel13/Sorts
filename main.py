@@ -11,4 +11,5 @@ def main():
     for i in range(0, len(item)):
         print(item[i], end = ' ')
 
+#Run the main inside of the main
 main()
